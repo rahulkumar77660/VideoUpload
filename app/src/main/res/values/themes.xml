@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.VideoUpload" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">#B9ACAC</item>
+    </style>
+
+    <style name="Theme.VideoUpload" parent="Base.Theme.VideoUpload" />
+</resources>

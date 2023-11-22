@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "219796576989",
+    "project_id": "whatsapp-9a70b",
+    "storage_bucket": "whatsapp-9a70b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219796576989:android:daecf45e705b3b6eccd934",
+        "android_client_info": {
+          "package_name": "com.pupup.selectmutipleimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219796576989-ps4bud5i70ms8kfbrofgp5obqo9l2lud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtzkjY73niwXUozxVVyfKLq1qbVf1JYTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219796576989-ps4bud5i70ms8kfbrofgp5obqo9l2lud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219796576989:android:51f3352d36d261adccd934",
+        "android_client_info": {
+          "package_name": "com.pupup.videoupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219796576989-ps4bud5i70ms8kfbrofgp5obqo9l2lud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtzkjY73niwXUozxVVyfKLq1qbVf1JYTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219796576989-ps4bud5i70ms8kfbrofgp5obqo9l2lud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219796576989:android:a9421325975f45c5ccd934",
+        "android_client_info": {
+          "package_name": "com.pupup.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219796576989-ihk16pf2gi2p0vhrrfdio8qlvmspdmbu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pupup.whatsapp",
+            "certificate_hash": "88181536bb9cdfcf1a38a6a975f805e28850a815"
+          }
+        },
+        {
+          "client_id": "219796576989-ps4bud5i70ms8kfbrofgp5obqo9l2lud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtzkjY73niwXUozxVVyfKLq1qbVf1JYTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219796576989-ps4bud5i70ms8kfbrofgp5obqo9l2lud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
